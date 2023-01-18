@@ -1,3 +1,3 @@
-Source code for Rhythm*IZ Unity client. 
+Source code for Rhythm*IZ Unity client and server. 
 
-Assets and certain scripts, including server code, are not included in this repository.
+Assets and certain scripts are not included in this repository.
